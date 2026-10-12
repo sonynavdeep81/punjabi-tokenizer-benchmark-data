@@ -49,7 +49,7 @@ The news domain (L3Cube-IndicNews) is licensed CC BY-NC-SA 4.0; its NonCommercia
 
 ## Sources and attribution
 
-Every text unit is derived from one of the sources below. We **modified** all source texts: we selected Gurmukhi-only units, applied length filters, removed duplicates, sampled 10,000 units per domain, and (agricultural domain) filtered by keyword. No source author endorses this corpus.
+Every text unit is derived from one of the sources below. We **modified** all source texts: we selected Gurmukhi-only units, applied length filters, removed duplicates, sampled 10,000 units per domain, and (agricultural domain) filtered by keyword.
 
 | Domain | Source and creator | License | Link |
 |---|---|---|---|
